@@ -1,0 +1,1 @@
+If I pull request to "develop" branch from "master", the branch will become master?
